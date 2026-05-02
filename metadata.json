@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Eco-Sort Visual Classifier",
+  "description": "A high-performance visual heuristic tool for classifying waste materials into Recycle, Compost, Hazard, and Trash categories with a dynamic dashboard and task manager.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
